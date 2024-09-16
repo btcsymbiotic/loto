@@ -1,0 +1,5 @@
+{
+  "url": "https://bot.cryptosymbiotic.com",
+  "name": "Loto Projekt",
+  "iconUrl": "https://loto.cryptosymbiotic.com/1.png"
+}
